@@ -1,6 +1,6 @@
 ---
 title: "Using Elastic Stack for Marketing Analytics"
-excerpt: "What is Elastic (ELK) Stack, and why Marketing Analytics folks to use it for real-time insights."
+excerpt: "What is Elastic (ELK) Stack, and why Marketing Analytics folks should use it for real-time insights."
 last_modified_at: 2018-02-08T10:27:01-05:00
 tags: 
   - Elastic
