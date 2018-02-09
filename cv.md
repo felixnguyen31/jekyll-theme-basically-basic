@@ -4,5 +4,5 @@ layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: "#pdf-asset"
+    url: "felixnguyen31.github.io/assets/Nguyen_Hung_(Felix)_MR_V3.pdf"
 ---
