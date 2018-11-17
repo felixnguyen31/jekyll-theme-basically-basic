@@ -122,6 +122,3 @@ When testing ANNs we are concerned with two types of error, **under-fitting** an
 
 <br>
 
-## Wrapping Up
-
-These are some of the fundamental components of ANNs.  Next you'll learn how to apply ANNs to predict continuous and categorical outcomes.
