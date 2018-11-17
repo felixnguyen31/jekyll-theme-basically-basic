@@ -23,9 +23,22 @@
     ]
   },
   "work": [
+   {
+      "company": "American Family Insurance",
+      "position": "Innovation Research & Strategy MBA Intern",
+      "website": "https://fecredit.com.vn/en/",
+      "startDate": "20118-05-14",
+      "endDate": "2018-08-21",
+      "summary": "Applied Lean Innovation & Design Thinking methods to explore and test new business models and technologies for insurance.",
+      "highlights": [
+        "Carried out over 30 customer empathy interviews and market research surveys & experiments to come up with product concepts.",
+        "Created 5 innovation opportunity reports on AI, Blockchain, Cybersecurity... using synthesized insights from secondary data research, competitive intelligence, and social listening.",
+        "Performed usability testing for a blockchain-based parametric insurance product using UserTesting.com and A/B testing for various design alternatives."
+      ]
+    },
     {
       "company": "FE CREDIT",
-      "position": "IT Management Associate",
+      "position": "IT Product Management Associate",
       "website": "https://fecredit.com.vn/en/",
       "startDate": "2015-12-22",
       "endDate": "2017-07-31",
@@ -69,7 +82,10 @@
       "gpa": "3.90",
       "courses": [
         "Marketing Analytics",
-        "New Product Development"
+        "New Product Development",
+        "Human-Computer Interaction",
+        "Statistical Analysis of Psychological Experiments",
+        "Machine Learning"
       ]
     },
 	{
@@ -78,7 +94,7 @@
       "studyType": "Bachelor",
       "startDate": "2011-09-01",
       "endDate": "2015-03-15",
-      "gpa": "8.12"
+      "gpa": "Distinction"
     }
   ],
   "awards": [
