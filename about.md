@@ -10,6 +10,6 @@ actions:
     url: "felixnguyen31.github.io/assets/resume.pdf"
 ---
 
-Hi there! My name is Felix Nguyen, a 2nd-year MBA student at the University of Wisconsin-Madison, and aspiring Product developer/customer researcher.
+Hi there! My name is Felix Nguyen, a 2nd-year MBA student at the University of Wisconsin-Madison, and aspiring Product developer/customer researcher. You can contact me via LinkedIn above, or at phhung3108@gmail.com!
 
 ---
