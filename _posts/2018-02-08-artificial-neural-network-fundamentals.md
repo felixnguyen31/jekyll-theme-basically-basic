@@ -84,7 +84,7 @@ $$o_j=\phi(b_j+\sum\limits_{i=1}^p w_ix_i)$$
 
 The output ($$o_j$$) can feed into the output layer of a neural network, or in deeper architectures may feed into additional hidden layers. The activation function determines if the sum of the weighted inputs plus a bias term is sufficiently large to trigger the *firing* of the neuron. There is not a universal best choice for the activation function, however, researchers have provided ample information regarding what activation functions work well for ANN solutions to many common problems. The choice of the activation function governs the required data scaling necessary for ANN analysis. Below we present activation functions commonly seen in may ANNs. 
 
-<img src="/public/images/analytics/deep_learning/activations-1.png" style="display: block; margin: auto;" />
+<img src="/assets/activations-1.png" style="display: block; margin: auto;" />
 
 <br>
 
