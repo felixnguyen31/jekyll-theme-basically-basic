@@ -1,7 +1,7 @@
 ---
 title: "Marketing in the Age of Digital Assistants"
 excerpt: "The rise of digital assistants and its implications to Marketing."
-last_modified_at: 2018-02-08T10:27:01-05:00
+last_modified_at: 2018-11-27T10:27:01-05:00
 tags: 
   - Marketing
   - Digital Assistants
