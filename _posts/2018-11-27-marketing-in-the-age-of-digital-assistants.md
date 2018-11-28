@@ -12,7 +12,7 @@ Not only the capabilities, but the popularity of AI assistants is on the rise as
 <br>
 ## SHIFTING CUSTOMER LOYALTY
  
-![](https://apexassembly.com/wp-content/uploads/2018/02/AI-human-robot-shaking-hands-How-to-increase-customer-loyalty-with-the-help-of-chatbot-1-e1519331959517.jpg)
+![](http://debuglies.com/wp-content/uploads/2017/09/robot-human-handshake-630x290.jpg)
 
 The first thing would be affected by the rise of Artificial Intelligent Assistants is customer loyalty, specifically who the customers are loyal to. Brands today owe much of their success to their ability to signal quality and win buyers’ loyalty. But in a world of ubiquitous AI platforms, marketers may find that consumers shift their allegiance from trusted brands to a trusted AI assistant. The activities that help brands build up relationships with buyers over time - understanding and fulfilling people’s needs, assuring quality, and consistently putting consumers’ interests at the center - will in many cases be performed by the AI. Professor Niraj Dawar at Ivey Business School predicts that AI assistants will win consumers’ trust and loyalty better than any previous marketing technology. Therefore focus of many brands should be shifted from reinforcing direct relationships with consumers to optimizing their positions on AI platforms. This new indirect relationship would lead to the next implication on customer acquisition.
 <br>
