@@ -7,7 +7,7 @@ tags:
   - Digital Assistants
 ---
 When the first Iron Man came out in 2008, the idea of an omni potent, ever-present Artificial Intelligence assistant like the J.A.R.V.I.S seemed like a cool but far-fetched science fiction concept. A decade later, the fiction has become the reality. All of the technologies that power J.A.R.V.I.S are either currently in development or already available—and being rapidly refined (save for the Hologram projection, but there are hopes on that as well). Amazon, Google, Baidu, and recently Facebook, have launched AI platforms with increasingly skilled digital assistants. While none have yet reached J.A.R.V.I.S level of abilities, and “awesomeness”, that is apparently their goal—and it’s just a matter of time before they get there.
-<br>
+
 Not only the capabilities, but the popularity of AI assistants is on the rise as well. Analysts estimate that Amazon, for instance, has sold some 25 million Echo smart speakers, which people use to engage with its AI assistant, Alexa, and that number is expected to more than double by 2020. This is unaccounted for tens of millions of other devices that we can also use to access Alexa. Similarly, Google Assistant is estimated to be available on more than 400 millions devices. The popularity of AI assistant is predicted to increase even more in the future. So, how will this change affect marketing?
 <br>
 ## SHIFTING CUSTOMER LOYALTY
